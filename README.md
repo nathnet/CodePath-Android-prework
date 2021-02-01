@@ -26,13 +26,13 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-**To be added** <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='./images/walkthrough.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-**To be added** Describe any challenges encountered while building the app.
+Since I have played around with Android Studio and programmed in Java before, those were not much of an obstacle. However, this was the first time I was seriously trying to make a functional application that is not just changing a text after clicking a button with only one screen. The challenges I have faced were memorizing or knowing the methods that are used to implement the functionalities of an Android application. Other challenges would include getting familiar with more components that Android Studio has to offer, and actually learning how XML works.
 
 ## License
 
